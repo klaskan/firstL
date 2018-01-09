@@ -12,9 +12,8 @@ public class Main {
             list.add(i);
         }
 
-        for(int i : list){
-            System.out.println(i);
-        }
+       
+
 
 
     }
