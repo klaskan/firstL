@@ -18,6 +18,8 @@ public class Main {
 
         System.out.println(elever.get(0).getNavn());;
 
+        System.out.println("TEST!");
+
 
 
 
